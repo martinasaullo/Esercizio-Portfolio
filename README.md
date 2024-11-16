@@ -1,4 +1,4 @@
-# Portfolio Showcase Website
+# Showcase Website
 
 ## Description
 This project is a simple website developed as a practice exercise during the **Digitazon** training course.
